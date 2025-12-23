@@ -1,1 +1,3 @@
-/venv
+/.venv
+audits.log
+cmd_audits.log
